@@ -1,0 +1,108 @@
+body {
+    min-width: 1000px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    margin: 0 auto;
+    background-color: #000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.visually-hidden {
+    visibility: hidden;
+    margin-top: 0;
+    margin-bottom: 50px;
+}
+
+.container {
+    margin: 0 auto;
+    width: 1000px;
+    background-color: #000;
+}
+
+.page-header {
+    margin: 0 auto;
+    background-color: #000;
+    background-image: url(../img/andrew-neel-fGvXxVxmTi8-unsplash\ 1.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    width: 1000px;
+    height: 1136px;
+}
+
+.page-title {
+    margin-top: 0%;
+    margin-bottom: 90px;
+    margin-left: 73px;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 85px;
+
+}
+
+.orange-text {
+    color: #F66C41;
+}
+
+.promo-description {
+    margin-left: 73px;
+    margin-bottom: 90px;
+    color: #BCBBBB;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+
+}
+
+.page-topic {
+    margin-left: 73px;
+    margin-bottom: 20px;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    padding-left: 125px;
+    margin-bottom: 90px;
+}
+
+.list {
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 44px;
+}
+
+.about-title {
+    margin-top: 0;
+    margin-left: 73px;
+    margin-bottom: 20px;
+    font-weight: 500;
+    font-size: 70px;
+    line-height: 85px;
+}
+
+.about-description {
+    margin-top: 0;
+    margin-left: 73px;
+    margin-bottom: 90px;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+}
+
+.footer-text {
+    margin-left: 73px;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 44px;
+    text-decoration: underline;
+    cursor: pointer;
+    padding: 10px;
+    padding-bottom: 104px;
+}
